@@ -1,0 +1,19 @@
+{
+  "name": "vits-paimon",
+  "display-name": "VITS - 派蒙",
+  "author": "Firok, w4123",
+  "description": "基于 VITS 合成的派蒙语音包",
+  "version": "0.1.0",
+  "contributes": [
+    {
+      "keywords": "if",
+      "voices": []
+    },
+    {
+      "keywords": "hello",
+      "voices": [
+        "paimon-hello-world-1.wav"
+      ]
+    }
+  ]
+}
