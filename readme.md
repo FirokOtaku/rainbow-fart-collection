@@ -2,9 +2,9 @@
 
 更多彩虹屁语音包, 更多乐趣.
 
-语音包 | 下载
------- | ----
-[派蒙 - VITS](/vits-paimon) | [下载]()
+语音包 | 最后更新 | 下载
+------ | ---- | ----
+[派蒙 - VITS](/vits-paimon) | [220914](changelog.md#vits-paimon-220914) | [下载](https://github.com/351768593/rainbow-fart-collection/releases/download/vits-paimon/vits-paimon-220914.zip)
 
 [Changelogs](changelog.md)
 
