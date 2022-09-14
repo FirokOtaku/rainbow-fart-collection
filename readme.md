@@ -16,13 +16,3 @@
 * 派蒙 - VITS
 
 派蒙语音包封面来源于 [派蒙 - 原神 Bilibili Wiki](https://wiki.biligame.com/ys/%E6%B4%BE%E8%92%99).
-
-## 打包
-
-```bash
-# 打包: build {语音包目录名}
-build vits-paimon
-
-# 清理: clean
-clean
-```
