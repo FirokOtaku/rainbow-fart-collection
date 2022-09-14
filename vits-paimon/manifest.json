@@ -3,16 +3,89 @@
   "display-name": "VITS - 派蒙",
   "author": "Firok, w4123",
   "description": "基于 VITS 合成的派蒙语音包",
-  "version": "0.1.0",
+  "version": "220914",
+  "avatar": "paimon.png",
+  "gender": "female",
+  "locale": "zh",
   "contributes": [
     {
-      "keywords": "if",
-      "voices": []
+      "keywords": "else if",
+      "voices": [
+        "paimon-posibilities-1.wav"
+      ]
+    },
+    {
+      "keywords": "try",
+      "voices": [
+        "paimon-try-2.wav"
+      ]
     },
     {
       "keywords": "hello",
       "voices": [
-        "paimon-hello-world-1.wav"
+        "paimon-hello-world-1.wav",
+        "paimon-hello-world-2.wav"
+      ]
+    },
+    {
+      "keywords": ["for", "while"],
+      "voices": [
+        "paimon-loop-2.wav",
+        "paimon-loop-3.wav"
+      ]
+    },
+    {
+      "keywords": ["await", "wait", "sleep"],
+      "voices": [
+        "paimon-await-1.wav",
+        "paimon-await-2.wav"
+      ]
+    },
+    {
+      "keywords": ["mian", "ture", "flase", "viod", "（", "）", "‘", "’", "“", "”", "，", "；"],
+      "voices": [
+        "paimon-mistake-1.wav",
+        "paimon-mistake-2.wav"
+      ]
+    },
+    {
+      "keywords": ["v-html"],
+      "voices": [
+        "paimon-danger-1.wav",
+        "paimon-danger-2.wav"
+      ]
+    },
+    {
+      "keywords": ["fuck", "shit"],
+      "voices": [
+        "paimon-no-more-code.wav"
+      ]
+    },
+    {
+      "event": "$time_morning",
+      "voices": [
+        "paimon-morning-1.wav",
+        "paimon-morning-2.wav",
+        "paimon-morning-3.wav"
+      ]
+    },
+    {
+      "event": "$time_noon",
+      "voices": [
+        "paimon-noon-1.wav"
+      ]
+    },
+    {
+      "event": "$time_midnight",
+      "voices": [
+        "paimon-midnight-1.wav"
+      ]
+    },
+    {
+      "event": "$time_each_hour",
+      "voices": [
+        "paimon-rest-1.wav",
+        "paimon-rest-2.wav"
       ]
     }
   ]

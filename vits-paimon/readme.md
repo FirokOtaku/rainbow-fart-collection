@@ -13,8 +13,11 @@
 别忘了中断循环哦 | `paimon-loop-3.wav`
 你在等什么呀 | `paimon-await-1.wav`
 要等多久才结束呢 | `paimon-await-2.wav`
+喂, 你要不要再检查检查? | `paimon-mistake-1.wav`
+你是不是写错了? | `paimon-mistake-2.wav`
 你明明都没试吃过我做的史莱姆料理 | `paimon-try-1.wav`
 下次也试试我做的史莱姆料理怎么样 | `paimon-try-2.wav`
+那么, 是谁会捕获它呢? | `paimon-throw-1.wav`
 到中午啦, 今天吃什么呢 | `paimon-before-noon-1.wav`
 午休时间到 | `paimon-noon-1.wav`
 这个很危险, 要注意安全 | `paimon-danger-1.wav`
